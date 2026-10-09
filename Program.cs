@@ -16,3 +16,23 @@
 // }
 // System.Console.WriteLine(total / grades.Length);
 
+
+// string[] students = { "Аня", "Ярослав", "Вика" };
+// int total = 0;
+
+// foreach (string student in students)
+// {
+//     total += 1;
+// System.Console.WriteLine(student);
+// }
+// System.Console.WriteLine(total);
+
+
+// int[] points = { 10, 20, 15 };
+
+// for (int i = 0; i < points.Length; i++)
+// {
+//     points[i] += 5;
+//     System.Console.WriteLine(points[i]);   
+// }
+
